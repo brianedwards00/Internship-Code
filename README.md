@@ -81,8 +81,8 @@ This project gave me more knowledge in the areas of:
 
 
 ### Duration of Project
-The Note Menu was a semester long project where we created/edited our code every milestone into the final product. The Analyzer Menu was a 2 week assignment. Combing/Fixing the two programs took about 12 more hours.
+The Note Menu was a semester long project where we created/edited more code every milestone into the final product. The Analyzer Menu was a 2 week assignment. Combing/Fixing the two programs took about 12 more hours.
 
 ---
 ### Notice
-There is __ONE__ function that comes from my professor. My code came from my assignments, from which my professor had to initialize a few things in the beginning, but I can guarantee that everything else on this project is 100% ME.
+There is __ONE__ function that comes from my professor (line 238 in NoteFiler.cpp). My code came from my assignments, from which my professor had to initialize a few things in the beginning, but I can guarantee that everything else on this project is 100% ME.
