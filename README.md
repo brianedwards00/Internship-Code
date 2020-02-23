@@ -25,7 +25,7 @@ This project will revolve around the use of text files. My project can accomplis
 
 ### Running the Project
 
-So with that in mind, it would be most beneficial to put __all__ of the files from GitHub into a new empty folder.
+It would be most beneficial to put __all__ of the files from GitHub into a new empty folder.
 
 After doing so, we will now compile the code! So now, open your terminal and type in
 
