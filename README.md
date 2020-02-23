@@ -27,7 +27,7 @@ This project will revolve around the use of text files. My project can accomplis
 
 It would be most beneficial to put __all__ of the files from GitHub into a new empty folder.
 
-After doing so, we will now compile the code! So now, open your terminal and type in
+After doing so, we will now compile the code! So now, open your terminal in a Linux environment and type in
 
 `g++ main.cpp NoteFiler.cpp`
 
