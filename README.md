@@ -66,6 +66,6 @@ This project gave me more knowledge in the areas of:
 
 
 ### Duration of Project
-The Note Menu was a semester long project where we created/edited our code every milestone into the final product. The Analyzer Menu was a 2 week assignment. Combing the two programs took about 10 more hours.
+The Note Menu was a semester long project where we created/edited our code every milestone into the final product. The Analyzer Menu was a 2 week assignment. Combing/Fixing the two programs took about 10 more hours.
 
 ---
