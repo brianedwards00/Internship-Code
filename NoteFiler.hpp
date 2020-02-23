@@ -85,7 +85,7 @@ public:
   int capacity() const { return capacity_; }
   int size() const { return size_; }
   // Destructor that deletes the note pointers and sets the note objects
-  // they were pointing to to nullprt
+  // they were pointing to to nullptr
   ~Notebook() {
     delete[] notes_;
     notes_ = nullptr;
