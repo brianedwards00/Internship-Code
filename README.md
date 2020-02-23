@@ -72,7 +72,7 @@ This project gave me more knowledge in the areas of:
  - Pointers and References
  - Writing and Reading Files
  - Implementation
- - Preventing code from crashing from different user inputs
+ - Preventing code from crashing from various user inputs
  - Objects
  - Inheritance
  - Polymorphism
