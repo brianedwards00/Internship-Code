@@ -1,4 +1,4 @@
-# Internship-Code
+# Internship Code
 
 ###### This markdown will go over all of your questions from the email.
 ---
