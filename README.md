@@ -59,10 +59,12 @@ This project gave me more knowledge in the areas of:
  - Defining Functions
  - Pointers and References
  - Writing and Reading Files
+ - Preventing code from crashing from different user inputs
  - Objects
  - Inheritance
  - Polymorphism
  - Data Structures (Hash Table and Arrays used in this project)
+
 
 
 ### Duration of Project
