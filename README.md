@@ -12,6 +12,7 @@ This project will revolve around the use of text files. My project can accomplis
 - View a specific Note
 - Save all the Notes into one text file that will be created
 - Load a text file with all the Notes to the current running program (__Note:__ This program will only load text files __if__ they have the same Note format that my project creates. It will not load anything if that is not the case.)
+
 - Analyze Notes (This option will lead to more options which are...)
  - Upload a Note to the current running program (__Note:__ On the other hand, this can take __ANY__ note, whether it was created by this program or not. I have included a text file of this nature in GitHub. Make sure it is in the same folder as the code.)
  - Display the total word count of the text file
@@ -39,6 +40,7 @@ And you're in! Read each instruction carefully!
 
 ### Tools/Libraries/Packages
 - Tools: Atom on a Linux Environment
+
 - Libraries (Standard C++):
  - iostream
  - string
@@ -47,6 +49,7 @@ And you're in! Read each instruction carefully!
  - locale
  - unordered_map
  - cstddef
+ 
 - Packages:
  - Namespace
  - Std
