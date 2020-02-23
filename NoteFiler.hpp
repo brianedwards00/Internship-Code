@@ -104,7 +104,7 @@ EncryptedNote *create_encrypted_note();
 // Everything below relates to the ANALYZING portion of the project (case 'A/a')
 class WordFrequency {
 public:
-  // Default Constructor, more detailed comments in the .cpp file
+  // Constructor, more detailed comments in the .cpp file
   WordFrequency(std::istream &iStream = std::cin);
   std::size_t totalWords() const;
   std::size_t numberOfWords() const;
