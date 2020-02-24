@@ -257,7 +257,7 @@ std::string cleanse(const std::string &word) {
 // from which my professor had to initialize a few things in the beginning, but
 // I can guarantee that everything else on this project is 100% ME!
 
-// This function below is a default contstructor that takes a reference to an
+// This function below is a default constructor that takes a reference to an
 // input stream as a parameter. One by one, each word is read until the end of
 // the file. Everytime it comes across a word, it 'cleanse' it to take out the
 // unnecessary chars such as () or {}. After that, it will check if that word is
