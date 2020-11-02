@@ -1,8 +1,4 @@
-# Internship Code
-
-###### This markdown will go over all of your questions from the email.
----
-## Welcome to Project __Text Filer 9000!__
+# Welcome to Project __Text Filer 9000!__
 ### The Basics
 
 This project will revolve around the use of text files. My project can accomplish the following:
